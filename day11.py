@@ -1,3 +1,4 @@
+
 ''' menampilkan bilangan ganjil dan genap dibawah 100 dengan menggunakan
 percabnagan dan perulangan for '''
 
@@ -16,6 +17,11 @@ for item in range(2, 100+1,2):
 print("bilangan ganjil")
 for i in range (1, 100,2):
     print (i)
+
+
+
+
+
 
 
 

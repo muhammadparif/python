@@ -1,0 +1,11 @@
+RENCANAKU KEDEPANYA :
+- belajar python
+  # percabangan 
+  # perulangan 
+  # function
+- BELAJAR PHP DAN MEMBUAT SUATU APLIKASI
+  # laravel
+- BELAJAR JAVA
+  # tipe data dan variabel
+  # operator aritmatika
+ 
