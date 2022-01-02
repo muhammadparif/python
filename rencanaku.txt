@@ -1,5 +1,7 @@
 RENCANAKU KEDEPANYA :
 - belajar python
+  # perulangan 
+  # function
 - BELAJAR PHP DAN MEMBUAT SUATU APLIKASI
 - BELAJAR MEMBUAT WEB 
 - BELAJAR JAVA
