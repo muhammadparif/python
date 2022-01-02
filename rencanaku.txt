@@ -1,7 +1,9 @@
 RENCANAKU KEDEPANYA :
 - belajar python
+  # perulangan 
+  # function
 - BELAJAR PHP DAN MEMBUAT SUATU APLIKASI
-- BELAJAR MEMBUAT WEB 
+  # laravel
 - BELAJAR JAVA
   # tipe data dan variabel
   # operator aritmatika
