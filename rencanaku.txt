@@ -2,6 +2,9 @@ RENCANAKU KEDEPANYA :
 - belajar python
   # percabangan 
   # perulangan 
+    ^ fro 
+    ^ while 
+    ^ rekursif
   # function
 - BELAJAR PHP DAN MEMBUAT SUATU APLIKASI
   # laravel
